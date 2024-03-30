@@ -21,3 +21,23 @@ h1{
     color: #f1d0d0;
     font-size: 3em;
 }
+
+#timer{
+  font-size: 50px;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  color: #76f0f0;
+  font-weight: bold;
+}
+
+.btn{
+  width: 100px;
+  height: 30px;
+  margin: 20px;
+  border-radius: 15px;
+  background-color: #76f0f0;
+  border: none;
+  color: rgb(0, 0, 0);
+  font-weight: bold;
+  box-shadow: 3px 3px 1px black;
+  cursor: pointer;
+}
